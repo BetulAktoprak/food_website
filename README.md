@@ -25,7 +25,11 @@ Bu proje, çeşitli yemekleri sergileyen ve kullanıcıların menü ile etkileş
 
 ### Proje Tanıtımı (Project Demo) (GIF) 
 
-Aşağıda, restoran menüsü web sitesinin işlevselliğini gösteren kısa bir tanıtım GIF'i bulunmaktadır:
+Aşağıda, restoran menüsü web sitesinin işlevselliğini gösteren kısa bir tanıtım GIF'i bulunmaktadır: <br>
 
 
 ![Video Açıklaması](Kayt2024-08-23224650-ezgif.com-video-to-gif-converter.gif)
+
+<br>
+
+https://betulaktoprak.github.io/food_website/
